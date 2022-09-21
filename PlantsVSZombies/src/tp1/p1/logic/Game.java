@@ -8,4 +8,6 @@ public class Game {
 		// TODO Auto-generated constructor stub
 	}
 	
+	private int monedas;
+	
 }
